@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Path: force-app/main/default/PlatformEventSubscriberConfigs/
+  Runs the DocumentUploadedSubscriber trigger as the integration user (who holds the
+  Document Processing permission) instead of the Automated Process user or the portal user.
+-->
+<PlatformEventSubscriberConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <batchSize>10</batchSize>
+    <masterLabel>DocumentUploadedSubscriberConfig</masterLabel>
+    <platformEventConsumer>DocumentUploadedSubscriber</platformEventConsumer>
+    <user>document.ai@yourco.com</user>
+</PlatformEventSubscriberConfig>
