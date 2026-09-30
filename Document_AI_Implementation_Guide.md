@@ -2,7 +2,7 @@
 
 ### Extract data from files uploaded on an Experience Cloud portal and populate Salesforce records, with confidence-based human review
 
-**Author:** [Your Name] · Salesforce Architect · [LinkedIn](https://www.linkedin.com/in/your-profile)
+**Author:** Bharanidharan Asokan · Salesforce Architect · [LinkedIn](www.linkedin.com/in/bharanidharan-asokan-1aa494bb)
 **Stack:** Data 360 (Data Cloud) Document AI · Agentforce · Experience Cloud · Apex · Platform Events · Flow
 
 ---
